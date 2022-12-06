@@ -56,7 +56,6 @@ function solution(absolutes, signs) {
 function solution(absolutes, signs) {
   let val = [],
       answer = 0;
-
   absolutes.map((x, i) => {
       val.push(signs[i] ? x : -x)
   })
