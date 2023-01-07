@@ -6,3 +6,9 @@ function solution(seoul) {
   }
 }
 console.log(solution(["Jane", "Kim"]))
+
+// 다른사람 풀이
+function findKim(seoul){
+  var idx = seoul.indexOf('Kim');
+  return "김서방은 " + idx + "에 있다";
+}
