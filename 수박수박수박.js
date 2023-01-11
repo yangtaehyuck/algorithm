@@ -70,3 +70,7 @@ function waterMelon(n){
   }
   return result;
 }
+
+function findKim(seoul){
+  var idx = 0;
+  //함수를 완성하세요
