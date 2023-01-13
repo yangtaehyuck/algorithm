@@ -73,4 +73,5 @@ function waterMelon(n){
 
 function findKim(seoul){
   var idx = 0;
-  //함수를 완성하세요
+}
+//함수를 완성하세
